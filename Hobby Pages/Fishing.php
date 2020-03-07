@@ -49,29 +49,29 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 
         <!-- On-click image to reference page -->
       <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Fishing.php">
-      <img  src="Images/fishing.webp" style="width:100%"/></a>
+      <img  src="fishing.webp" style="width:100%"/></a>
       <h3>Fishing</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Knitting.php">
-      <img  src="Images/knitting.jpeg" style="width:100%"/></a>
+      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
+      <img  src="knitting.jpeg" style="width:100%"/></a>
       <h3>Knitting</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Photography.php">
-        <img  src="Images/Photography.jpeg" style="width:100%"/></a>
+      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
+        <img  src="Photography.jpeg" style="width:100%"/></a>
       <h3>Photography</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
       <p>What else?</p>
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Painting.php">
-        <img  src="Images/Painting.jpeg" style="width:100%"/></a>
+      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
+        <img  src="Painting.jpeg" style="width:100%"/></a>
       <h3>Painting</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
@@ -80,28 +80,22 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- Second Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center">
     <div class="w3-quarter">
-
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Writing.php">
-      <img src="Images/Writing.jpeg" style="width:100%"/></a>
+      <img src="Writing.jpeg" alt="Item1" style="width:100%">
       <h3>Writing</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
-
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Gardening.php">
-      <img src="Images/Gardening.jpeg" style="width:100%"/></a>
+      <img src="Gardening.jpeg" alt="Item1" style="width:100%">
       <h3>Gardening</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Cooking.php">
-      <img src="Images/Cooking.jpeg" style="width:100%"/></a>
+      <img src="Cooking.jpeg" alt="Item1" style="width:100%">
       <h3>Cooking</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Leatherworking.php">
-      <img src="Images/Leatherworking.webp" style="width:100%"/></a>
+      <img src="Leatherworking.webp" alt="Item1" style="width:100%">
       <h3>Leatherworking</h3>
       <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
@@ -110,26 +104,22 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
    <!-- Third Photo Grid-->
    <div class="w3-row-padding w3-padding-16 w3-center">
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Hiking.php">
-      <img src="Images/Hiking.jpeg" style="width:100%"/></a>
+      <img src="Hiking.jpeg" alt="Item1" style="width:100%">
       <h3>Hiking</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Scrapbooking.php">
-      <img src="Images/Scrapbooking.jpeg" style="width:100%"/></a>
+      <img src="Scrapbooking.jpeg" alt="Item1" style="width:100%">
       <h3>Scrapbooking</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Drawing.php">
-      <img src="Images/Drawing.jpeg" style="width:100%"/></a>
+      <img src="Drawing.jpeg" alt="Item1" style="width:100%">
       <h3>Drawing</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Woodworking.php">
-      <img src="Images/Woodworking.jpeg" style="width:100%"/></a>
+      <img src="Woodworking.jpeg" alt="Item1" style="width:100%">
       <h3>Woodworking</h3>
       <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
@@ -149,17 +139,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   
   <hr id="about">
 
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32 w3-center">  
-    <h3>About us</h3><br>
-    <img src="/w3images/chef.jpg" alt="Me" class="w3-image" style="display:block;margin:auto" width="800" height="533">
-    <div class="w3-padding-32">
-      <h4><b>Who we are!</b></h4>
-      <h6><i>With a Passion For Hobbies</i></h6>
-      <p>Just me, myself and the Team, exploring the universe of unknownment. I have an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-    </div>
-  </div>
-  <hr>
   
   <!-- Footer -->
   <footer class="w3-row-padding w3-padding-32">
