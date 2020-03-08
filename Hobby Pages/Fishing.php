@@ -17,7 +17,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-bar-item w3-button">Close Menu</a>
-  <a href="#favourite" onclick="w3_close()" class="w3-bar-item w3-button">Favourite</a>
+  <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Landing Page/Favourite.php" onclick="w3_close()" class="w3-bar-item w3-button">Favourite</a>
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">About</a>
   <a href="#Test" onclick="w3_close()" class="w3-bar-item w3-button">Test</a>
 
@@ -47,83 +47,37 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
 
-        <!-- On-click image to reference page -->
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/Hobby Pages/Fishing.php">
-      <img  src="fishing.webp" style="width:100%"/></a>
-      <h3>Fishing</h3>
+      <img  src="Fishing images/Lures.webp" style="width:100%"/></a>
+      <h3>Lures</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <a class="w3-left" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
+      <a class="w3-center" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
+
+      <a class="w3-right" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
+
+
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
-      <img  src="knitting.jpeg" style="width:100%"/></a>
-      <h3>Knitting</h3>
+      <img  src="Fishing images/Rod.webp" style="width:100%"/></a>
+      <h3>Rod</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
-        <img  src="Photography.jpeg" style="width:100%"/></a>
-      <h3>Photography</h3>
+        <img  src="Fishing images/Bag.webp" style="width:100%"/></a>
+      <h3>Bag</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
       <p>What else?</p>
     </div>
 
     <div class="w3-quarter">
-      <a href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/Register.php">
-        <img  src="Painting.jpeg" style="width:100%"/></a>
-      <h3>Painting</h3>
+        <img  src="Fishing images/Kit.webp" style="width:100%"/></a>
+      <h3>Kit</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
   </div>
   
-  <!-- Second Photo Grid-->
-  <div class="w3-row-padding w3-padding-16 w3-center">
-    <div class="w3-quarter">
-      <img src="Writing.jpeg" alt="Item1" style="width:100%">
-      <h3>Writing</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Gardening.jpeg" alt="Item1" style="width:100%">
-      <h3>Gardening</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Cooking.jpeg" alt="Item1" style="width:100%">
-      <h3>Cooking</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Leatherworking.webp" alt="Item1" style="width:100%">
-      <h3>Leatherworking</h3>
-      <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-  </div>
-
-   <!-- Third Photo Grid-->
-   <div class="w3-row-padding w3-padding-16 w3-center">
-    <div class="w3-quarter">
-      <img src="Hiking.jpeg" alt="Item1" style="width:100%">
-      <h3>Hiking</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Scrapbooking.jpeg" alt="Item1" style="width:100%">
-      <h3>Scrapbooking</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Drawing.jpeg" alt="Item1" style="width:100%">
-      <h3>Drawing</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="Woodworking.jpeg" alt="Item1" style="width:100%">
-      <h3>Woodworking</h3>
-      <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-  </div>
 
   <!-- Pagination -->
   <div class="w3-center w3-padding-32">
@@ -137,8 +91,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     </div>
   </div>
   
-  <hr id="about">
-
+  
   
   <!-- Footer -->
   <footer class="w3-row-padding w3-padding-32">
