@@ -50,10 +50,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <img  src="Fishing images/Lures.webp" style="width:100%"/></a>
       <h3>Lures</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-      <a class="w3-left" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
-      <a class="w3-center" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
-
-      <a class="w3-right" href="http://localhost:8888/CraftyActivityDevelopmentTeam/registration/login.php">Log in</a>
+  	  <button type="Need" class="btn" name="reg_user">Need</button>
+  	  <button type="Want" class="btn" name="reg_user">Want</button>
+  	  <button type="Wait" class="btn" name="reg_user">Wait</button>
 
 
     </div>
@@ -62,19 +61,27 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <img  src="Fishing images/Rod.webp" style="width:100%"/></a>
       <h3>Rod</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <button type="Need" class="btn" name="reg_user">Need</button>
+  	  <button type="Want" class="btn" name="reg_user">Want</button>
+  	  <button type="Wait" class="btn" name="reg_user">Wait</button>
     </div>
 
     <div class="w3-quarter">
         <img  src="Fishing images/Bag.webp" style="width:100%"/></a>
       <h3>Bag</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-      <p>What else?</p>
+      <button type="Need" class="btn" name="reg_user">Need</button>
+  	  <button type="Want" class="btn" name="reg_user">Want</button>
+  	  <button type="Wait" class="btn" name="reg_user">Wait</button>  
     </div>
 
     <div class="w3-quarter">
         <img  src="Fishing images/Kit.webp" style="width:100%"/></a>
       <h3>Kit</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <button type="Need" class="btn" name="reg_user">Need</button>
+  	  <button type="Want" class="btn" name="reg_user">Want</button>
+  	  <button type="Wait" class="btn" name="reg_user">Wait</button>
     </div>
   </div>
   
