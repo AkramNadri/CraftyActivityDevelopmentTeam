@@ -50,6 +50,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <img  src="Fishing images/Lures.webp" style="width:100%"/></a>
       <h3>Lures</h3>
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+
+        <!-- Button to add item -->
   	  <button type="Need" class="btn" name="reg_user">Need</button>
   	  <button type="Want" class="btn" name="reg_user">Want</button>
   	  <button type="Wait" class="btn" name="reg_user">Wait</button>

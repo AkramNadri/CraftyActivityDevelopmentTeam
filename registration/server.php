@@ -6,6 +6,7 @@ $username = "";
 $email    = "";
 $errors = array(); 
 
+// database values all need to be the same for each member to connect
 // connect to the database
 $db = mysqli_connect('localhost', 'cadt_hobby', 'password', 'CraftyActivityDevelopmentTeam');
 
